@@ -28,6 +28,7 @@ body{
 }
 .card:hover{
     transform: rotateX(15deg) rotateY(15deg) scale(1.05);
+    box-shadow: 5px 10px 20px #f4c10f;
 }
 
 .img{
